@@ -1,16 +1,28 @@
 ## Hi there 👋
+Hola a todos! 
 
-<!--
-**Meryymr/Meryymr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 ¡Hola! Soy María Melo, una apasionada del desarrollo Front-End de Concepción, Chile.
 
-Here are some ideas to get you started:
+## Sobre mí 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy una desarrolladora en formación con un fuerte interés en crear experiencias web interactivas y atractivas. Mi formación académica incluye estudios en Pedagogía en Inglés y Diseño Gráfico, donde adquirí habilidades valiosas, a pesar de no haber completado dichas carreras.
+
+Actualmente, estoy enfocada en perfeccionar mis habilidades en Desarrollo Front-End. A lo largo de mi trayectoria, he trabajado en diversos proyectos propios y en colaboración durante mi participación en un bootcamp intensivo.
+
+
+## Explora mi GitHub para ver más de mis trabajos y contribuciones. 🤓 
+
+## Habilidades
+
+Lenguajes: HTML, CSS, JavaScript
+Frameworks y Librerías: Bootstrap
+Herramientas: VS Code, GitHub
+
+## Contacto
+📧 Correo: maria.melo.robles@gmail.com
+
+🔗 LinkedIn: [María Melo](https://www.linkedin.com/in/merymr/)
+
+
+## ¡Gracias por visitar mi perfil! Siempre estoy abierta a nuevas oportunidades y colaboraciones interesantes. 🚀 
+
