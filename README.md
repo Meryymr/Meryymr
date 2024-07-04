@@ -3,7 +3,7 @@ Hola a todos!
 
 👩‍💻 ¡Hola! Soy María Melo, una apasionada del desarrollo Front-End de Concepción, Chile.
 
-## Sobre mí 💻
+# Sobre mí 💻
 
 Soy una desarrolladora en formación con un fuerte interés en crear experiencias web interactivas y atractivas. Mi formación académica incluye estudios en Pedagogía en Inglés y Diseño Gráfico, donde adquirí habilidades valiosas, a pesar de no haber completado dichas carreras.
 
@@ -14,9 +14,9 @@ Actualmente, estoy enfocada en perfeccionar mis habilidades en Desarrollo Front-
 
 ## Habilidades
 
-Lenguajes: HTML, CSS, JavaScript
-Frameworks y Librerías: Bootstrap
-Herramientas: VS Code, GitHub
+### Lenguajes: HTML, CSS, JavaScript -
+### Frameworks y Librerías: Bootstrap -
+### Herramientas: VS Code, GitHub
 
 ## Contacto
 📧 Correo: maria.melo.robles@gmail.com
